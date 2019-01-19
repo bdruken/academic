@@ -17,7 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Mathematics Educatione"
+  course = "PhD in Mathematics Education"
   institution = "San Diego State University & University of California, San Diego"
   year = 2015
 
